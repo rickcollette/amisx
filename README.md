@@ -1,5 +1,5 @@
-# amisne
-Atari Message and Information System: New Era
+# A.M.I.S.X.
+Atari Message and Information System eXpanded
 
 Outline:
   - Wait for call
